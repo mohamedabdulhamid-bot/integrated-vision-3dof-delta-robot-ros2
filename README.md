@@ -1,11 +1,12 @@
-Integrated Mechatronic System for an Automated Foam Plate Production Line and Delta Robotic Packaging
+## Integrated Mechatronic System for an Automated Foam Plate Production Line and Delta Robotic Packaging
 
     Mechatronics Engineering Senior Graduation Project
 
     A fully custom-built 3-DOF Delta robot bridging mechanical design, embedded control, and high-level robotics software for automated industrial packaging.
 
 (Note: Replace the link above with an actual photo or GIF of your robot moving!)
- Overview
+
+ ## Overview
 
 This repository contains the complete hardware and software architecture for our senior graduation project. Designed and manufactured entirely from scratch, this system operates as an autonomous packaging unit. It utilizes ESP32 microcontrollers for real-time hardware execution and a ROS 2 architecture for inverse kinematics. Combined with an OpenCV computer vision pipeline, the robot is capable of real-time object detection, dynamic pick-and-place operations, and custom trajectory generation.
  Tech Stack & Hardware
@@ -24,7 +25,7 @@ This repository contains the complete hardware and software architecture for our
 
     Mechanical Design: SolidWorks
 
- Repository Structure
+## Repository Structure
 
 This repository is organized into distinct subsystems to separate mechanical, embedded, and high-level software components:
 
@@ -48,7 +49,7 @@ This repository is organized into distinct subsystems to separate mechanical, em
 
     presentation/ - Project defense slides and official documentation.
 
- Getting Started
+## Getting Started
 Prerequisites
 
     Ubuntu Linux installed
@@ -72,7 +73,7 @@ colcon build
 # Source the environment
 source install/setup.bash
 
- Project Team
+## Project Team
 
 This system was designed and developed by a dedicated team of Mechatronics Engineering graduates from Assiut University:
 

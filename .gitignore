@@ -1,0 +1,28 @@
+# ROS 2 Workspace Cache
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# Python / OpenCV Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ESP32 / C++ Firmware Build Files
+esp32_firmware/build/
+*.elf
+*.bin
+.pio/
+
+# SolidWorks Temporary & Backup Files
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.bak
+
+# Large Media, Data, and OS Files
+*.bag
+*.mp4
+*.avi
+.DS_Store
+Thumbs.db

@@ -100,3 +100,6 @@ This system was designed and developed by a dedicated team of Mechatronics Engin
  Acknowledgments & Funding
 
 This graduation project was officially supported and funded by the Information Technology Academia Collaboration (ITAC) program.
+---
+Author: Mohamed Ahmed Abdulhamid Abdellah
+Contact: mohamed.abdulhamid404@gmail.com

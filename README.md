@@ -4,7 +4,9 @@
 
     A fully custom-built 3-DOF Delta robot bridging mechanical design, embedded control, and high-level robotics software for automated industrial packaging.
 
-(Note: Replace the link above with an actual photo or GIF of your robot moving!)
+<img width="666" height="374" alt="Pasted image (2)" src="https://github.com/user-attachments/assets/4db824f6-69fc-44af-ad6f-183db621ddfa" />
+
+
 
  ## Overview
 
@@ -24,6 +26,9 @@ This repository contains the complete hardware and software architecture for our
     Actuation & Sensing: DC gear motors, Cytron motor drivers, quadrature encoders
 
     Mechanical Design: SolidWorks
+
+## presentation
+ [click here to see the presentation on google drive](https://drive.google.com/drive/folders/1eVsxZofNP7hxiP0DvLmWnte0NTw9Deb-?usp=sharing)
 
 ## Repository Structure
 
